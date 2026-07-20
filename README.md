@@ -2,7 +2,7 @@
 
 A premium, modern AI-powered resume and CV builder built with Next.js App Router, Tailwind CSS, and Zustand. It operates 100% on the client side, securely saving your data directly to your browser's local storage—no database or account required!
 
-## 🌟 Core Features
+## 🌟 Core Features.
 
 ### 1. Dual-Mode Builder (Resume vs. CV).
 The application offers two distinct, fully-featured document builders:
